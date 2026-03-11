@@ -1,4 +1,5 @@
 # Projeto de Algoritmos em Grafos
+grupo: luis arthur cordeiro e antonio freitas
 
 ## Fase 1 – Problemas do LeetCode
 
